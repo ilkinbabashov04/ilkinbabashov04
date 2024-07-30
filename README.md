@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilkin Babashov
-- 👀 I’m interested in C#, .NET, Flutter
-- 🌱 I’m currently learning backend development
+- 👀 I’m interested in C#, Flutter
+- 🌱 I’m currently learning backend and mobile development
 - 💞️ I’m looking to collaborate on innovative software development projects
 - 📫 How to reach me ilkinbabasov99@gmail.com
 - 😄 Pronouns: he/him
